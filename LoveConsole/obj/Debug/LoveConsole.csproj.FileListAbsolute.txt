@@ -1,0 +1,9 @@
+c:\users\kona\documents\visual studio 2015\Projects\LoveConsole\LoveConsole\obj\Debug\LoveConsole.Main.resources
+c:\users\kona\documents\visual studio 2015\Projects\LoveConsole\LoveConsole\obj\Debug\LoveConsole.Properties.Resources.resources
+c:\users\kona\documents\visual studio 2015\Projects\LoveConsole\LoveConsole\obj\Debug\LoveConsole.csproj.GenerateResource.Cache
+c:\users\kona\documents\visual studio 2015\Projects\LoveConsole\LoveConsole\bin\Debug\LoveConsole.exe
+c:\users\kona\documents\visual studio 2015\Projects\LoveConsole\LoveConsole\bin\Debug\LoveConsole.pdb
+c:\users\kona\documents\visual studio 2015\Projects\LoveConsole\LoveConsole\obj\Debug\LoveConsole.exe
+c:\users\kona\documents\visual studio 2015\Projects\LoveConsole\LoveConsole\obj\Debug\LoveConsole.pdb
+C:\Users\kona\Documents\Visual Studio 2015\Projects\LoveConsole\LoveConsole\obj\Debug\LoveConsole.ProcessManager.resources
+C:\Users\kona\Documents\Visual Studio 2015\Projects\LoveConsole\LoveConsole\obj\Debug\LoveConsole.CryptoManager.resources
